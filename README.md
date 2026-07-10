@@ -30,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rvpranesh2006/Leet-Code/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Array
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rvpranesh2006/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rvpranesh2006/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
