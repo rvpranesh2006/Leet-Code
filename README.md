@@ -38,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rvpranesh2006/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/rvpranesh2006/Leet-Code/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
