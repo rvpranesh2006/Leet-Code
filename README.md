@@ -42,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/rvpranesh2006/Leet-Code/tree/master/0196-delete-duplicate-emails) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/rvpranesh2006/Leet-Code/tree/master/0201-bitwise-and-of-numbers-range) |
 <!---LeetCode Topics End-->
