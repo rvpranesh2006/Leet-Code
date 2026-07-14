@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rvpranesh2006/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rvpranesh2006/Leet-Code/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0147-insertion-sort-list](https://github.com/rvpranesh2006/Leet-Code/tree/master/0147-insertion-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/rvpranesh2006/Leet-Code/tree/master/0201-bitwise-and-of-numbers-range) |
+## Sorting
+|  |
+| ------- |
+| [0147-insertion-sort-list](https://github.com/rvpranesh2006/Leet-Code/tree/master/0147-insertion-sort-list) |
 <!---LeetCode Topics End-->
