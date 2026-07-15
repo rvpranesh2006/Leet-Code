@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rvpranesh2006/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0219-contains-duplicate-ii](https://github.com/rvpranesh2006/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/rvpranesh2006/Leet-Code/tree/master/0147-insertion-sort-list) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/rvpranesh2006/Leet-Code/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/rvpranesh2006/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
