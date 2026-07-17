@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rvpranesh2006/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rvpranesh2006/Leet-Code/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/rvpranesh2006/Leet-Code/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/rvpranesh2006/Leet-Code/tree/master/0147-insertion-sort-list) |
 ## Math
 |  |
@@ -16,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rvpranesh2006/Leet-Code/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/rvpranesh2006/Leet-Code/tree/master/0143-reorder-list) |
 ## Stack
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rvpranesh2006/Leet-Code/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/rvpranesh2006/Leet-Code/tree/master/0143-reorder-list) |
 ## Tree
 |  |
 | ------- |
@@ -41,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rvpranesh2006/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0143-reorder-list](https://github.com/rvpranesh2006/Leet-Code/tree/master/0143-reorder-list) |
 ## Database
 |  |
 | ------- |
