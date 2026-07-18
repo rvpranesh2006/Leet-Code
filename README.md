@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rvpranesh2006/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/rvpranesh2006/Leet-Code/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/rvpranesh2006/Leet-Code/tree/master/0089-gray-code) |
 ## Recursion
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/rvpranesh2006/Leet-Code/tree/master/0089-gray-code) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/rvpranesh2006/Leet-Code/tree/master/0201-bitwise-and-of-numbers-range) |
 ## Sorting
 |  |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rvpranesh2006/Leet-Code/tree/master/0069-sqrtx) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/rvpranesh2006/Leet-Code/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
