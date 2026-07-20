@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rvpranesh2006/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/rvpranesh2006/Leet-Code/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/rvpranesh2006/Leet-Code/tree/master/0089-gray-code) |
+| [0268-missing-number](https://github.com/rvpranesh2006/Leet-Code/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rvpranesh2006/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0219-contains-duplicate-ii](https://github.com/rvpranesh2006/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/rvpranesh2006/Leet-Code/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/rvpranesh2006/Leet-Code/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,14 +58,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/rvpranesh2006/Leet-Code/tree/master/0089-gray-code) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/rvpranesh2006/Leet-Code/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0268-missing-number](https://github.com/rvpranesh2006/Leet-Code/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/rvpranesh2006/Leet-Code/tree/master/0147-insertion-sort-list) |
+| [0268-missing-number](https://github.com/rvpranesh2006/Leet-Code/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/rvpranesh2006/Leet-Code/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/rvpranesh2006/Leet-Code/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -72,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rvpranesh2006/Leet-Code/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/rvpranesh2006/Leet-Code/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
