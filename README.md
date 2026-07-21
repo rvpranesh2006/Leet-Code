@@ -44,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/rvpranesh2006/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/rvpranesh2006/Leet-Code/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/rvpranesh2006/Leet-Code/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/rvpranesh2006/Leet-Code/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rvpranesh2006/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0143-reorder-list](https://github.com/rvpranesh2006/Leet-Code/tree/master/0143-reorder-list) |
+| [0283-move-zeroes](https://github.com/rvpranesh2006/Leet-Code/tree/master/0283-move-zeroes) |
 ## Database
 |  |
 | ------- |
