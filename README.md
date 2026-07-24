@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rvpranesh2006/Leet-Code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rvpranesh2006/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rvpranesh2006/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/rvpranesh2006/Leet-Code/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/rvpranesh2006/Leet-Code/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/rvpranesh2006/Leet-Code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rvpranesh2006/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/rvpranesh2006/Leet-Code/tree/master/0455-assign-cookies) |
 ## Database
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/rvpranesh2006/Leet-Code/tree/master/0147-insertion-sort-list) |
 | [0268-missing-number](https://github.com/rvpranesh2006/Leet-Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rvpranesh2006/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/rvpranesh2006/Leet-Code/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/rvpranesh2006/Leet-Code/tree/master/0089-gray-code) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/rvpranesh2006/Leet-Code/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
