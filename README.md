@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/rvpranesh2006/Leet-Code/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/rvpranesh2006/Leet-Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rvpranesh2006/Leet-Code/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/rvpranesh2006/Leet-Code/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/rvpranesh2006/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rvpranesh2006/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/rvpranesh2006/Leet-Code/tree/master/0455-assign-cookies) |
@@ -98,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/rvpranesh2006/Leet-Code/tree/master/0455-assign-cookies) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/rvpranesh2006/Leet-Code/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/rvpranesh2006/Leet-Code/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
