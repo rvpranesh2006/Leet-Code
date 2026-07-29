@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/rvpranesh2006/Leet-Code/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/rvpranesh2006/Leet-Code/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/rvpranesh2006/Leet-Code/tree/master/0575-distribute-candies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rvpranesh2006/Leet-Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rvpranesh2006/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rvpranesh2006/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0575-distribute-candies](https://github.com/rvpranesh2006/Leet-Code/tree/master/0575-distribute-candies) |
 ## Sliding Window
 |  |
 | ------- |
