@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/rvpranesh2006/Leet-Code/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/rvpranesh2006/Leet-Code/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/rvpranesh2006/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rvpranesh2006/Leet-Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rvpranesh2006/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/rvpranesh2006/Leet-Code/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/rvpranesh2006/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,10 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rvpranesh2006/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rvpranesh2006/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/rvpranesh2006/Leet-Code/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/rvpranesh2006/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/rvpranesh2006/Leet-Code/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/rvpranesh2006/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/0566-reshape-the-matrix) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/rvpranesh2006/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
