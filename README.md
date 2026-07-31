@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/rvpranesh2006/Leet-Code/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/rvpranesh2006/Leet-Code/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/rvpranesh2006/Leet-Code/tree/master/0268-missing-number) |
+| [0598-range-addition-ii](https://github.com/rvpranesh2006/Leet-Code/tree/master/0598-range-addition-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/rvpranesh2006/Leet-Code/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/rvpranesh2006/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
+| [0598-range-addition-ii](https://github.com/rvpranesh2006/Leet-Code/tree/master/0598-range-addition-ii) |
 ## Two Pointers
 |  |
 | ------- |
