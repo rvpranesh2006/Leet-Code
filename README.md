@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rvpranesh2006/Leet-Code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/rvpranesh2006/Leet-Code/tree/master/0143-reorder-list) |
+| [0682-baseball-game](https://github.com/rvpranesh2006/Leet-Code/tree/master/0682-baseball-game) |
 ## Tree
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/rvpranesh2006/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/rvpranesh2006/Leet-Code/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/rvpranesh2006/Leet-Code/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/rvpranesh2006/Leet-Code/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0495-teemo-attacking](https://github.com/rvpranesh2006/Leet-Code/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/rvpranesh2006/Leet-Code/tree/master/0682-baseball-game) |
 ## Matrix
 |  |
 | ------- |
