@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rvpranesh2006/Leet-Code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/rvpranesh2006/Leet-Code/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/rvpranesh2006/Leet-Code/tree/master/0147-insertion-sort-list) |
+| [0705-design-hashset](https://github.com/rvpranesh2006/Leet-Code/tree/master/0705-design-hashset) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/rvpranesh2006/Leet-Code/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/rvpranesh2006/Leet-Code/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/rvpranesh2006/Leet-Code/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/rvpranesh2006/Leet-Code/tree/master/0705-design-hashset) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/rvpranesh2006/Leet-Code/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/rvpranesh2006/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/rvpranesh2006/Leet-Code/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/rvpranesh2006/Leet-Code/tree/master/0705-design-hashset) |
 ## Sliding Window
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/rvpranesh2006/Leet-Code/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/rvpranesh2006/Leet-Code/tree/master/0705-design-hashset) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -147,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/rvpranesh2006/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/rvpranesh2006/Leet-Code/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
