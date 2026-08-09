@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/rvpranesh2006/Leet-Code/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/rvpranesh2006/Leet-Code/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/rvpranesh2006/Leet-Code/tree/master/0705-design-hashset) |
+| [0746-min-cost-climbing-stairs](https://github.com/rvpranesh2006/Leet-Code/tree/master/0746-min-cost-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/rvpranesh2006/Leet-Code/tree/master/0705-design-hashset) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/rvpranesh2006/Leet-Code/tree/master/0746-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
