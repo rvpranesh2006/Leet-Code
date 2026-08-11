@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/rvpranesh2006/Leet-Code/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/rvpranesh2006/Leet-Code/tree/master/0705-design-hashset) |
 | [0746-min-cost-climbing-stairs](https://github.com/rvpranesh2006/Leet-Code/tree/master/0746-min-cost-climbing-stairs) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/rvpranesh2006/Leet-Code/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/rvpranesh2006/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rvpranesh2006/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/rvpranesh2006/Leet-Code/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/rvpranesh2006/Leet-Code/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Hash Table
 |  |
 | ------- |
