@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/rvpranesh2006/Leet-Code/tree/master/0705-design-hashset) |
 | [0746-min-cost-climbing-stairs](https://github.com/rvpranesh2006/Leet-Code/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/rvpranesh2006/Leet-Code/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0867-transpose-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,10 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/rvpranesh2006/Leet-Code/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/rvpranesh2006/Leet-Code/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/0867-transpose-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/0867-transpose-matrix) |
 ## Counting
 |  |
 | ------- |
