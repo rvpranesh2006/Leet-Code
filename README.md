@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/rvpranesh2006/Leet-Code/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/rvpranesh2006/Leet-Code/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/rvpranesh2006/Leet-Code/tree/master/0748-shortest-completing-word) |
+| [0766-toeplitz-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/0566-reshape-the-matrix) |
+| [0766-toeplitz-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/0867-transpose-matrix) |
 ## Counting
 |  |
