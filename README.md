@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/rvpranesh2006/Leet-Code/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/rvpranesh2006/Leet-Code/tree/master/0748-shortest-completing-word) |
 | [0766-toeplitz-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/0766-toeplitz-matrix) |
+| [0804-unique-morse-code-words](https://github.com/rvpranesh2006/Leet-Code/tree/master/0804-unique-morse-code-words) |
 | [0867-transpose-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/rvpranesh2006/Leet-Code/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/rvpranesh2006/Leet-Code/tree/master/0705-design-hashset) |
 | [0748-shortest-completing-word](https://github.com/rvpranesh2006/Leet-Code/tree/master/0748-shortest-completing-word) |
+| [0804-unique-morse-code-words](https://github.com/rvpranesh2006/Leet-Code/tree/master/0804-unique-morse-code-words) |
 ## Sliding Window
 |  |
 | ------- |
@@ -173,4 +175,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0748-shortest-completing-word](https://github.com/rvpranesh2006/Leet-Code/tree/master/0748-shortest-completing-word) |
+| [0804-unique-morse-code-words](https://github.com/rvpranesh2006/Leet-Code/tree/master/0804-unique-morse-code-words) |
 <!---LeetCode Topics End-->
