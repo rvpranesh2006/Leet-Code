@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/rvpranesh2006/Leet-Code/tree/master/0748-shortest-completing-word) |
 | [0766-toeplitz-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/rvpranesh2006/Leet-Code/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/rvpranesh2006/Leet-Code/tree/master/0806-number-of-lines-to-write-string) |
 | [0867-transpose-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
@@ -176,4 +177,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0748-shortest-completing-word](https://github.com/rvpranesh2006/Leet-Code/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/rvpranesh2006/Leet-Code/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/rvpranesh2006/Leet-Code/tree/master/0806-number-of-lines-to-write-string) |
 <!---LeetCode Topics End-->
