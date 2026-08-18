@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/rvpranesh2006/Leet-Code/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/rvpranesh2006/Leet-Code/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/rvpranesh2006/Leet-Code/tree/master/0812-largest-triangle-area) |
+| [0821-shortest-distance-to-a-character](https://github.com/rvpranesh2006/Leet-Code/tree/master/0821-shortest-distance-to-a-character) |
 | [0867-transpose-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rvpranesh2006/Leet-Code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rvpranesh2006/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/rvpranesh2006/Leet-Code/tree/master/0455-assign-cookies) |
+| [0821-shortest-distance-to-a-character](https://github.com/rvpranesh2006/Leet-Code/tree/master/0821-shortest-distance-to-a-character) |
 ## Database
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/rvpranesh2006/Leet-Code/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/rvpranesh2006/Leet-Code/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/rvpranesh2006/Leet-Code/tree/master/0806-number-of-lines-to-write-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/rvpranesh2006/Leet-Code/tree/master/0821-shortest-distance-to-a-character) |
 ## Geometry
 |  |
 | ------- |
