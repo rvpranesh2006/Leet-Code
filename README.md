@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/rvpranesh2006/Leet-Code/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/rvpranesh2006/Leet-Code/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/rvpranesh2006/Leet-Code/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/rvpranesh2006/Leet-Code/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rvpranesh2006/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/rvpranesh2006/Leet-Code/tree/master/0455-assign-cookies) |
 | [0821-shortest-distance-to-a-character](https://github.com/rvpranesh2006/Leet-Code/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/rvpranesh2006/Leet-Code/tree/master/0832-flipping-an-image) |
 ## Database
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/rvpranesh2006/Leet-Code/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/rvpranesh2006/Leet-Code/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/rvpranesh2006/Leet-Code/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/rvpranesh2006/Leet-Code/tree/master/0832-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
@@ -157,12 +160,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/rvpranesh2006/Leet-Code/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/rvpranesh2006/Leet-Code/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/rvpranesh2006/Leet-Code/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/0867-transpose-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/rvpranesh2006/Leet-Code/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/0867-transpose-matrix) |
 ## Counting
 |  |
