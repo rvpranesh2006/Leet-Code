@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/rvpranesh2006/Leet-Code/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rvpranesh2006/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/rvpranesh2006/Leet-Code/tree/master/0812-largest-triangle-area) |
+| [0892-surface-area-of-3d-shapes](https://github.com/rvpranesh2006/Leet-Code/tree/master/0892-surface-area-of-3d-shapes) |
 ## Recursion
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/rvpranesh2006/Leet-Code/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/0867-transpose-matrix) |
 | [0888-fair-candy-swap](https://github.com/rvpranesh2006/Leet-Code/tree/master/0888-fair-candy-swap) |
+| [0892-surface-area-of-3d-shapes](https://github.com/rvpranesh2006/Leet-Code/tree/master/0892-surface-area-of-3d-shapes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/rvpranesh2006/Leet-Code/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/0867-transpose-matrix) |
+| [0892-surface-area-of-3d-shapes](https://github.com/rvpranesh2006/Leet-Code/tree/master/0892-surface-area-of-3d-shapes) |
 ## Counting
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/rvpranesh2006/Leet-Code/tree/master/0812-largest-triangle-area) |
+| [0892-surface-area-of-3d-shapes](https://github.com/rvpranesh2006/Leet-Code/tree/master/0892-surface-area-of-3d-shapes) |
 ## Polygons
 |  |
 | ------- |
