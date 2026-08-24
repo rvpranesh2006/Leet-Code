@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/rvpranesh2006/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/rvpranesh2006/Leet-Code/tree/master/0812-largest-triangle-area) |
 | [0892-surface-area-of-3d-shapes](https://github.com/rvpranesh2006/Leet-Code/tree/master/0892-surface-area-of-3d-shapes) |
+| [0908-smallest-range-i](https://github.com/rvpranesh2006/Leet-Code/tree/master/0908-smallest-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/rvpranesh2006/Leet-Code/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/rvpranesh2006/Leet-Code/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/rvpranesh2006/Leet-Code/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/rvpranesh2006/Leet-Code/tree/master/0908-smallest-range-i) |
 ## Two Pointers
 |  |
 | ------- |
