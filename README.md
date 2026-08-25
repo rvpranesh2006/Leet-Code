@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/rvpranesh2006/Leet-Code/tree/master/0812-largest-triangle-area) |
 | [0892-surface-area-of-3d-shapes](https://github.com/rvpranesh2006/Leet-Code/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/rvpranesh2006/Leet-Code/tree/master/0908-smallest-range-i) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/rvpranesh2006/Leet-Code/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Recursion
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/rvpranesh2006/Leet-Code/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/rvpranesh2006/Leet-Code/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/rvpranesh2006/Leet-Code/tree/master/0908-smallest-range-i) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/rvpranesh2006/Leet-Code/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/rvpranesh2006/Leet-Code/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/rvpranesh2006/Leet-Code/tree/master/0804-unique-morse-code-words) |
 | [0888-fair-candy-swap](https://github.com/rvpranesh2006/Leet-Code/tree/master/0888-fair-candy-swap) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/rvpranesh2006/Leet-Code/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Sliding Window
 |  |
 | ------- |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/rvpranesh2006/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/rvpranesh2006/Leet-Code/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Hash Function
 |  |
 | ------- |
@@ -210,4 +214,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/rvpranesh2006/Leet-Code/tree/master/0812-largest-triangle-area) |
+## Number Theory
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/rvpranesh2006/Leet-Code/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/rvpranesh2006/Leet-Code/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/rvpranesh2006/Leet-Code/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
