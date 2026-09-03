@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/rvpranesh2006/Leet-Code/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/rvpranesh2006/Leet-Code/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/rvpranesh2006/Leet-Code/tree/master/0953-verifying-an-alien-dictionary) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/rvpranesh2006/Leet-Code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/rvpranesh2006/Leet-Code/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/rvpranesh2006/Leet-Code/tree/master/0929-unique-email-addresses) |
 | [0953-verifying-an-alien-dictionary](https://github.com/rvpranesh2006/Leet-Code/tree/master/0953-verifying-an-alien-dictionary) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/rvpranesh2006/Leet-Code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/rvpranesh2006/Leet-Code/tree/master/0944-delete-columns-to-make-sorted) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/rvpranesh2006/Leet-Code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
