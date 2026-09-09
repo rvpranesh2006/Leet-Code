@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/rvpranesh2006/Leet-Code/tree/master/0997-find-the-town-judge) |
 | [0999-available-captures-for-rook](https://github.com/rvpranesh2006/Leet-Code/tree/master/0999-available-captures-for-rook) |
 | [1002-find-common-characters](https://github.com/rvpranesh2006/Leet-Code/tree/master/1002-find-common-characters) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/rvpranesh2006/Leet-Code/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/rvpranesh2006/Leet-Code/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/rvpranesh2006/Leet-Code/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/rvpranesh2006/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/rvpranesh2006/Leet-Code/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Hash Table
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/rvpranesh2006/Leet-Code/tree/master/0605-can-place-flowers) |
 | [0942-di-string-match](https://github.com/rvpranesh2006/Leet-Code/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/rvpranesh2006/Leet-Code/tree/master/0976-largest-perimeter-triangle) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/rvpranesh2006/Leet-Code/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Design
 |  |
 | ------- |
