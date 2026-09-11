@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/rvpranesh2006/Leet-Code/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/rvpranesh2006/Leet-Code/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/rvpranesh2006/Leet-Code/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/rvpranesh2006/Leet-Code/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rvpranesh2006/Leet-Code/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/rvpranesh2006/Leet-Code/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/rvpranesh2006/Leet-Code/tree/master/0832-flipping-an-image) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/rvpranesh2006/Leet-Code/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Sorting
 |  |
 | ------- |
