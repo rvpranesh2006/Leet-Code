@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/rvpranesh2006/Leet-Code/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/rvpranesh2006/Leet-Code/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/rvpranesh2006/Leet-Code/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/rvpranesh2006/Leet-Code/tree/master/1051-height-checker) |
 ## Two Pointers
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/rvpranesh2006/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/rvpranesh2006/Leet-Code/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/rvpranesh2006/Leet-Code/tree/master/1030-matrix-cells-in-distance-order) |
+| [1051-height-checker](https://github.com/rvpranesh2006/Leet-Code/tree/master/1051-height-checker) |
 ## Hash Table
 |  |
 | ------- |
@@ -298,4 +300,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/rvpranesh2006/Leet-Code/tree/master/1046-last-stone-weight) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/rvpranesh2006/Leet-Code/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/rvpranesh2006/Leet-Code/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
