@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/rvpranesh2006/Leet-Code/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/rvpranesh2006/Leet-Code/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/rvpranesh2006/Leet-Code/tree/master/1051-height-checker) |
+| [1089-duplicate-zeros](https://github.com/rvpranesh2006/Leet-Code/tree/master/1089-duplicate-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/rvpranesh2006/Leet-Code/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/rvpranesh2006/Leet-Code/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/rvpranesh2006/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/rvpranesh2006/Leet-Code/tree/master/1089-duplicate-zeros) |
 ## Database
 |  |
 | ------- |
