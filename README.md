@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/rvpranesh2006/Leet-Code/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/rvpranesh2006/Leet-Code/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/rvpranesh2006/Leet-Code/tree/master/1089-duplicate-zeros) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/rvpranesh2006/Leet-Code/tree/master/1128-number-of-equivalent-domino-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rvpranesh2006/Leet-Code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/rvpranesh2006/Leet-Code/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/rvpranesh2006/Leet-Code/tree/master/1002-find-common-characters) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/rvpranesh2006/Leet-Code/tree/master/1128-number-of-equivalent-domino-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/rvpranesh2006/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/rvpranesh2006/Leet-Code/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/rvpranesh2006/Leet-Code/tree/master/1128-number-of-equivalent-domino-pairs) |
 ## Hash Function
 |  |
 | ------- |
