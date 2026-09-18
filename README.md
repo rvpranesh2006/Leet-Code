@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/rvpranesh2006/Leet-Code/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/rvpranesh2006/Leet-Code/tree/master/1089-duplicate-zeros) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/rvpranesh2006/Leet-Code/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1184-distance-between-bus-stops](https://github.com/rvpranesh2006/Leet-Code/tree/master/1184-distance-between-bus-stops) |
 ## Two Pointers
 |  |
 | ------- |
