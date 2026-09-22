@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/rvpranesh2006/Leet-Code/tree/master/0989-add-to-array-form-of-integer) |
 | [1030-matrix-cells-in-distance-order](https://github.com/rvpranesh2006/Leet-Code/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/rvpranesh2006/Leet-Code/tree/master/1037-valid-boomerang) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rvpranesh2006/Leet-Code/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Recursion
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-distance-between-bus-stops](https://github.com/rvpranesh2006/Leet-Code/tree/master/1184-distance-between-bus-stops) |
 | [1200-minimum-absolute-difference](https://github.com/rvpranesh2006/Leet-Code/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/rvpranesh2006/Leet-Code/tree/master/1207-unique-number-of-occurrences) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rvpranesh2006/Leet-Code/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Two Pointers
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/rvpranesh2006/Leet-Code/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/rvpranesh2006/Leet-Code/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/rvpranesh2006/Leet-Code/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rvpranesh2006/Leet-Code/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Design
 |  |
 | ------- |
