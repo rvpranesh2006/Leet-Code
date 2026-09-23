@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/rvpranesh2006/Leet-Code/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/rvpranesh2006/Leet-Code/tree/master/1037-valid-boomerang) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rvpranesh2006/Leet-Code/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/rvpranesh2006/Leet-Code/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Recursion
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/rvpranesh2006/Leet-Code/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/rvpranesh2006/Leet-Code/tree/master/1207-unique-number-of-occurrences) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rvpranesh2006/Leet-Code/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/rvpranesh2006/Leet-Code/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Two Pointers
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/rvpranesh2006/Leet-Code/tree/master/0892-surface-area-of-3d-shapes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/rvpranesh2006/Leet-Code/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/rvpranesh2006/Leet-Code/tree/master/1037-valid-boomerang) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/rvpranesh2006/Leet-Code/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Polygons
 |  |
 | ------- |
