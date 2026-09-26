@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/rvpranesh2006/Leet-Code/tree/master/1037-valid-boomerang) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rvpranesh2006/Leet-Code/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rvpranesh2006/Leet-Code/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1266-minimum-time-visiting-all-points](https://github.com/rvpranesh2006/Leet-Code/tree/master/1266-minimum-time-visiting-all-points) |
 ## Recursion
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rvpranesh2006/Leet-Code/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rvpranesh2006/Leet-Code/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/rvpranesh2006/Leet-Code/tree/master/1260-shift-2d-grid) |
+| [1266-minimum-time-visiting-all-points](https://github.com/rvpranesh2006/Leet-Code/tree/master/1266-minimum-time-visiting-all-points) |
 ## Two Pointers
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/rvpranesh2006/Leet-Code/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/rvpranesh2006/Leet-Code/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rvpranesh2006/Leet-Code/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1266-minimum-time-visiting-all-points](https://github.com/rvpranesh2006/Leet-Code/tree/master/1266-minimum-time-visiting-all-points) |
 ## Polygons
 |  |
 | ------- |
