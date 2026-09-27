@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/rvpranesh2006/Leet-Code/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/rvpranesh2006/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rvpranesh2006/Leet-Code/tree/master/1266-minimum-time-visiting-all-points) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/rvpranesh2006/Leet-Code/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
