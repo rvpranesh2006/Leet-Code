@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/rvpranesh2006/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rvpranesh2006/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rvpranesh2006/Leet-Code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/rvpranesh2006/Leet-Code/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/rvpranesh2006/Leet-Code/tree/master/0832-flipping-an-image) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/rvpranesh2006/Leet-Code/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rvpranesh2006/Leet-Code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/rvpranesh2006/Leet-Code/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/rvpranesh2006/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rvpranesh2006/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rvpranesh2006/Leet-Code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/rvpranesh2006/Leet-Code/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/rvpranesh2006/Leet-Code/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/rvpranesh2006/Leet-Code/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rvpranesh2006/Leet-Code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Hash Function
 |  |
 | ------- |
