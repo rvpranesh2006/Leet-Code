@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rvpranesh2006/Leet-Code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rvpranesh2006/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rvpranesh2006/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1389-create-target-array-in-the-given-order](https://github.com/rvpranesh2006/Leet-Code/tree/master/1389-create-target-array-in-the-given-order) |
 ## Two Pointers
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/0867-transpose-matrix) |
 | [0999-available-captures-for-rook](https://github.com/rvpranesh2006/Leet-Code/tree/master/0999-available-captures-for-rook) |
 | [1260-shift-2d-grid](https://github.com/rvpranesh2006/Leet-Code/tree/master/1260-shift-2d-grid) |
+| [1389-create-target-array-in-the-given-order](https://github.com/rvpranesh2006/Leet-Code/tree/master/1389-create-target-array-in-the-given-order) |
 ## Matrix
 |  |
 | ------- |
