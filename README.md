@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/rvpranesh2006/Leet-Code/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rvpranesh2006/Leet-Code/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/rvpranesh2006/Leet-Code/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1408-string-matching-in-an-array](https://github.com/rvpranesh2006/Leet-Code/tree/master/1408-string-matching-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/rvpranesh2006/Leet-Code/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/rvpranesh2006/Leet-Code/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/rvpranesh2006/Leet-Code/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1408-string-matching-in-an-array](https://github.com/rvpranesh2006/Leet-Code/tree/master/1408-string-matching-in-an-array) |
 ## Geometry
 |  |
 | ------- |
@@ -372,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/rvpranesh2006/Leet-Code/tree/master/1051-height-checker) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/rvpranesh2006/Leet-Code/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
