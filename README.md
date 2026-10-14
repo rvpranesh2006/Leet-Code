@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/rvpranesh2006/Leet-Code/tree/master/1408-string-matching-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/rvpranesh2006/Leet-Code/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rvpranesh2006/Leet-Code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1436-destination-city](https://github.com/rvpranesh2006/Leet-Code/tree/master/1436-destination-city) |
 ## Two Pointers
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/rvpranesh2006/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rvpranesh2006/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rvpranesh2006/Leet-Code/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1436-destination-city](https://github.com/rvpranesh2006/Leet-Code/tree/master/1436-destination-city) |
 ## Sliding Window
 |  |
 | ------- |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/rvpranesh2006/Leet-Code/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/rvpranesh2006/Leet-Code/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1408-string-matching-in-an-array](https://github.com/rvpranesh2006/Leet-Code/tree/master/1408-string-matching-in-an-array) |
+| [1436-destination-city](https://github.com/rvpranesh2006/Leet-Code/tree/master/1436-destination-city) |
 ## Geometry
 |  |
 | ------- |
