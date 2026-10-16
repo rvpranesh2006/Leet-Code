@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rvpranesh2006/Leet-Code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/rvpranesh2006/Leet-Code/tree/master/1436-destination-city) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/rvpranesh2006/Leet-Code/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/rvpranesh2006/Leet-Code/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 ## Two Pointers
 |  |
 | ------- |
