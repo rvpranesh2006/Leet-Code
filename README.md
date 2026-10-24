@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/rvpranesh2006/Leet-Code/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rvpranesh2006/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0219-contains-duplicate-ii](https://github.com/rvpranesh2006/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/rvpranesh2006/Leet-Code/tree/master/0228-summary-ranges) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/rvpranesh2006/Leet-Code/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rvpranesh2006/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0143-reorder-list](https://github.com/rvpranesh2006/Leet-Code/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/rvpranesh2006/Leet-Code/tree/master/0283-move-zeroes) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/rvpranesh2006/Leet-Code/tree/master/0016-3sum-closest) |
 | [0147-insertion-sort-list](https://github.com/rvpranesh2006/Leet-Code/tree/master/0147-insertion-sort-list) |
 | [0268-missing-number](https://github.com/rvpranesh2006/Leet-Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rvpranesh2006/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
