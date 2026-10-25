@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rvpranesh2006/Leet-Code/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/rvpranesh2006/Leet-Code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/rvpranesh2006/Leet-Code/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/rvpranesh2006/Leet-Code/tree/master/1528-shuffle-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rvpranesh2006/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/rvpranesh2006/Leet-Code/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1408-string-matching-in-an-array](https://github.com/rvpranesh2006/Leet-Code/tree/master/1408-string-matching-in-an-array) |
 | [1436-destination-city](https://github.com/rvpranesh2006/Leet-Code/tree/master/1436-destination-city) |
+| [1528-shuffle-string](https://github.com/rvpranesh2006/Leet-Code/tree/master/1528-shuffle-string) |
 ## Geometry
 |  |
 | ------- |
