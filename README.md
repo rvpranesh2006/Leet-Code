@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/rvpranesh2006/Leet-Code/tree/master/0016-3sum-closest) |
+| [0045-jump-game-ii](https://github.com/rvpranesh2006/Leet-Code/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/rvpranesh2006/Leet-Code/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rvpranesh2006/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0219-contains-duplicate-ii](https://github.com/rvpranesh2006/Leet-Code/tree/master/0219-contains-duplicate-ii) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/rvpranesh2006/Leet-Code/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/rvpranesh2006/Leet-Code/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/rvpranesh2006/Leet-Code/tree/master/0605-can-place-flowers) |
 | [0942-di-string-match](https://github.com/rvpranesh2006/Leet-Code/tree/master/0942-di-string-match) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/rvpranesh2006/Leet-Code/tree/master/0045-jump-game-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/rvpranesh2006/Leet-Code/tree/master/0746-min-cost-climbing-stairs) |
 ## String
 |  |
