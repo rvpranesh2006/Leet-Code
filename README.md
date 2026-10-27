@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/rvpranesh2006/Leet-Code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/rvpranesh2006/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/rvpranesh2006/Leet-Code/tree/master/1528-shuffle-string) |
+| [1534-count-good-triplets](https://github.com/rvpranesh2006/Leet-Code/tree/master/1534-count-good-triplets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rvpranesh2006/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
@@ -423,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rvpranesh2006/Leet-Code/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Enumeration
+|  |
+| ------- |
+| [1534-count-good-triplets](https://github.com/rvpranesh2006/Leet-Code/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
