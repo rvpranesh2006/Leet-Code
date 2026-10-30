@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/rvpranesh2006/Leet-Code/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/rvpranesh2006/Leet-Code/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/rvpranesh2006/Leet-Code/tree/master/1539-kth-missing-positive-number) |
+| [1550-three-consecutive-odds](https://github.com/rvpranesh2006/Leet-Code/tree/master/1550-three-consecutive-odds) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rvpranesh2006/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
