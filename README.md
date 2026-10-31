@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/rvpranesh2006/Leet-Code/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/rvpranesh2006/Leet-Code/tree/master/1550-three-consecutive-odds) |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/rvpranesh2006/Leet-Code/tree/master/1560-most-visited-sector-in-a-circular-track) |
+| [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/rvpranesh2006/Leet-Code/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rvpranesh2006/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
@@ -437,4 +438,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/rvpranesh2006/Leet-Code/tree/master/1534-count-good-triplets) |
+| [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/rvpranesh2006/Leet-Code/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 <!---LeetCode Topics End-->
