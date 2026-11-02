@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/rvpranesh2006/Leet-Code/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/rvpranesh2006/Leet-Code/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1572-matrix-diagonal-sum](https://github.com/rvpranesh2006/Leet-Code/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rvpranesh2006/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/rvpranesh2006/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rvpranesh2006/Leet-Code/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/rvpranesh2006/Leet-Code/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Counting
 |  |
 | ------- |
